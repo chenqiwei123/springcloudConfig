@@ -1,4 +1,4 @@
 config:
-  info: "master branch,springcloud-config/config-dev.yml version=cqw"
+  info: "master branch,springcloud-config/config-dev.yml version=cqwsunmin"
 cqw:
   min: "chen"
